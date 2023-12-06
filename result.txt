@@ -1,0 +1,22 @@
+========== RESULT HAMILTON 16 VERTICES ==========
+Dynamic Prog: 48.6259999871254ms; 721072 memory used
+Backtracking: 0.397599995136261ms; 0 memory used
+
+========== RESULT HAMILTON 18 VERTICES ==========
+Dynamic Prog: 90.12610000371933ms; 4580400 memory used
+Backtracking: 1.2983999848365784ms; 0 memory used
+
+========== RESULT HAMILTON 20 VERTICES ==========
+Dynamic Prog: 474.2278000116348ms; 41943040 memory used
+Backtracking: 0.12290000915527344ms; 0 memory used
+
+========== RESULT NON-HAMILTON 16 VERTICES ==========
+Dynamic Prog: 56.960900008678436ms; 721072 memory used
+Backtracking: 13625.554700016975ms; 914720 memory used
+
+========== RESULT NON-HAMILTON 18 VERTICES ==========
+Dynamic Prog: 96.37070000171661ms; 4580392 memory used
+Backtracking: 1121188.5934000015ms; 1255832 memory used
+
+========== RESULT NON-HAMILTON 20 VERTICES ==========
+Dynamic Prog: 1038.9889999628067ms; 42865968 memory used
